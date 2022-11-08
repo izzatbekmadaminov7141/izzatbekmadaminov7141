@@ -1,1 +1,1 @@
-### Hi,  my name is Izzatbek I am web developer <img src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47gaog0tfsn5bqsbmd70iqa03jcf16db7w0psnm8i9&rid=giphy.gif&ct=s" width="30px>
+### Hi,  my name is Izzatbek I am web developer <img src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47gaog0tfsn5bqsbmd70iqa03jcf16db7w0psnm8i9&rid=giphy.gif&ct=s" width="30px">
