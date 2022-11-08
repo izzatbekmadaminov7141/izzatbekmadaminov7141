@@ -4,5 +4,5 @@ my work network addresses: <br/>
 <img src="https://www.freepnglogos.com/uploads/youtube-logo-red-hd-13.png" width="40px">
 </a>
 <a href="https://t.me/madaminovabdulloh" target="_blank">
-<img src="[[https://www.freepnglogos.com/uploads/youtube-logo-red-hd-13.png](https://www.freepnglogos.com/uploads/telegram-logo-png-0.png)](https://www.freepnglogos.com/uploads/telegram-logo-png-31.png)" width="40px">
+<img src="https://media4.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47w61ts68s451l924z9lxbmbc815vjbswujd31ahcg&rid=giphy.gif&ct=s" width="40px">
 </a>
