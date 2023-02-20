@@ -1,1 +1,1 @@
-<h1>Hi, I'm Izzatbek Madaminov <iframe src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY</a></p></h1>
+<h1>Hi,  I'm Izzatbek Madaminov </h1> <img src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47n6o094ubrhpkj24eiy284bglkahi7up77q1u2xsc&rid=giphy.gif&ct=s" width="100px"/>
