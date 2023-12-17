@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web App**
 
-- 🌱 I’m currently learning **Web site**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 💬 Ask me about **Android , MEARN**
 
