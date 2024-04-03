@@ -5,13 +5,12 @@
 
 
 
-- 🔭 I’m currently working on **Web App**
+- 🔭 I’m currently working on **Front End**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Backend(node js)**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Web seyt**
 
 - 📫 How to reach me **izzatbekmadaminov7141@gmail.com**
 
-- ⚡ Fun fact **Mugiwara Coder**
 
