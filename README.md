@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Front End**
+- 🔭 I’m currently working on **Front End (React js)**
 
 - 🌱 I’m currently learning **Backend(node js)**
 
